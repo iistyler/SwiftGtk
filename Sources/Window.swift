@@ -4,7 +4,7 @@
 
 import CGtk
 
-public class Window: Bin {
+open class Window: Bin {
     public enum WindowType {
         case topLevel
         case popUp
